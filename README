@@ -1,3 +1,0 @@
-This is my fork of st, suckless simple terminal
-added minimal patches: scrollback with shift+mouse scroll
-dependencies: no added dep just st default dep
